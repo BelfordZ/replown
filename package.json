@@ -1,0 +1,20 @@
+{
+  "name": "replown",
+  "description": "Allows the use of CLI's in a Javascript/Coffeescript repl",
+  "author": {
+    "name": "Zach Belford",
+    "email": "belfordz66@gmail.com"
+  },
+  "version": "0.0.2",
+  "private": false,
+  "main": "lib/REPLown.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node REPLown.js"
+  },
+  "readme": "Used mainly for SublimeREPL, this package allows you to view the output of grunt commands inside a sublime tab.\n",
+  "readmeFilename": "README.md",
+  "_id": "replown@0.0.2",
+  "_from": "replown@*"
+}
